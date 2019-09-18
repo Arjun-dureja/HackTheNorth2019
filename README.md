@@ -1,2 +1,2 @@
-# HackTheNorth2019
+# Medscribe - Hack The North 2019
  
