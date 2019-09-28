@@ -11,7 +11,7 @@ Medscribe allows doctors to speak into Google Assistant and produce a SOAP note 
 # How we built it
 Medscribe was built using various languages and APIs. The Voiceflow API is used to get speech to text from Google Assistant. From there, we used the Google Spreadsheets API to transfer the notes to a machine learning model where they are summarized. Then, the summarized notes are sent via a Flask API to a Web App made with React.
 
-Built With
+# Built With
 
 css
 
