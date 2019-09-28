@@ -1,5 +1,7 @@
 # Medscribe - Hack The North 2019
 
+https://devpost.com/software/medscribe
+
 # Inspiration
 Poor doctor's notes commonly lead to inaccurate diagnosis. We wish to provide a secondary transcript of all the information during the patient's visit so that they can understand their situation, and physician assistants can cross-check their notes.
 
